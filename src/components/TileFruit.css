@@ -1,9 +1,12 @@
 .wrapper {
-  display: flex;
+    display: flex;
+
 }
 
 .tile-fruit {
     height: 4rem;
+    min-width: 17rem;
+
     border: black solid 1px;
     border-radius: 1rem;
 
