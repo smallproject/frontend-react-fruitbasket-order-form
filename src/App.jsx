@@ -18,7 +18,7 @@ function App() {
 
         <div>
         <TileFruit
-            imageUrl={"./assets/images/logo.png"}
+            imageUrl={"./src/assets/strawberry.png"}
             imageAlt={"Aarbeien image"}
             fruitName={"Aarbeien"}
         />
@@ -33,17 +33,17 @@ function App() {
         </div>
 
         <TileFruit
-            imageUrl={"./assets/images/logo.png"}
+            imageUrl={"./src/assets/banana.png"}
             imageAlt={"Bananen image"}
             fruitName={"Bananen"}
         />
         <TileFruit
-            imageUrl={"./assets/images/logo.png"}
+            imageUrl={"./src/assets/apple.png"}
             imageAlt={"Appels image"}
             fruitName={"Appels"}
         />
         <TileFruit
-            imageUrl={"./assets/images/logo.png"}
+            imageUrl={"./src/assets/kiwi.png"}
             imageAlt={"Kiwi's image"}
             fruitName={"Kiwi's"}
         />
