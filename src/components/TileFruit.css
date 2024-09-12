@@ -1,0 +1,18 @@
+.wrapper {
+  display: flex;
+}
+
+.tile-fruit {
+    height: 4rem;
+    border: black solid 1px;
+    border-radius: 1rem;
+
+    flex-shrink: 1;
+    align-content: center;
+    padding: 2rem;
+}
+
+.input-counter {
+    flex-shrink: 1;
+    width: 1rem;
+}
