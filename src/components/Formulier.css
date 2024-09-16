@@ -1,0 +1,27 @@
+.form-wrapper {
+    width: 30rem;
+
+    display: flex;
+    flex-direction: column;
+
+    border: black solid 1px;
+    gap: 1rem;
+    padding: 1rem;
+}
+
+.form-wrapper div{
+    display: flex;
+    flex-direction: column;
+
+    flex-grow: 1;
+    gap: 1rem;
+}
+
+.time-of-day div{
+    flex-direction: row;
+}
+
+.agreement div{
+    display: flex;
+    flex-direction: row;
+}
